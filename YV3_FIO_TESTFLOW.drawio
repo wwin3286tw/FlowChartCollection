@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T03:24:24.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="cr2Sc-2BzxdyuKFNgZAE" version="12.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-01T03:34:21.921Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Hiu2igk5KRfMAHbYAD37" version="12.9.6" type="github">
   <diagram id="qrGEZ7d2ItmtNZZTiHF2" name="Page-1">
     <mxGraphModel dx="981" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,11 +26,11 @@
         </mxCell>
         <mxCell id="YghnJZwzXwjtp5xYnZhh-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="YghnJZwzXwjtp5xYnZhh-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="410" as="targetPoint" />
+            <mxPoint x="270" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YghnJZwzXwjtp5xYnZhh-5" value="&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;Check Blue LED is bright&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="25" y="100" width="150" height="50" as="geometry" />
+        <mxCell id="YghnJZwzXwjtp5xYnZhh-5" value="&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;Check Blue LED is bright&lt;br&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="100" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YghnJZwzXwjtp5xYnZhh-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YghnJZwzXwjtp5xYnZhh-6" target="YghnJZwzXwjtp5xYnZhh-22">
           <mxGeometry relative="1" as="geometry" />
@@ -54,8 +54,16 @@
         <mxCell id="YghnJZwzXwjtp5xYnZhh-7" value="&lt;span style=&quot;text-align: left ; white-space: normal&quot;&gt;Detect button&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="220" width="90" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="YghnJZwzXwjtp5xYnZhh-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;startArrow=classic;startFill=1;" edge="1" parent="1" source="YghnJZwzXwjtp5xYnZhh-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YghnJZwzXwjtp5xYnZhh-9" value="Test End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="500" width="60" height="30" as="geometry" />
+          <mxGeometry x="70" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YghnJZwzXwjtp5xYnZhh-11" value="No bright" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="177.5" y="100" width="60" height="20" as="geometry" />
@@ -66,16 +74,16 @@
         <mxCell id="YghnJZwzXwjtp5xYnZhh-21" value="No bright" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="290" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="YghnJZwzXwjtp5xYnZhh-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YghnJZwzXwjtp5xYnZhh-22">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="YghnJZwzXwjtp5xYnZhh-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YghnJZwzXwjtp5xYnZhh-22" target="YghnJZwzXwjtp5xYnZhh-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YghnJZwzXwjtp5xYnZhh-22" value="&lt;span style=&quot;white-space: normal ; font-size: 8px&quot;&gt;Detect&lt;br style=&quot;font-size: 8px&quot;&gt;&amp;nbsp;TMP75&lt;br style=&quot;font-size: 8px&quot;&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;Temperature&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;and&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px&quot;&gt;&lt;span style=&quot;font-size: 8px&quot;&gt;alert function&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="21.25" y="380" width="158.75" height="80" as="geometry" />
+        <mxCell id="YghnJZwzXwjtp5xYnZhh-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=10;" edge="1" parent="1" source="YghnJZwzXwjtp5xYnZhh-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YghnJZwzXwjtp5xYnZhh-22" value="&lt;span style=&quot;white-space: normal ; font-size: 10px&quot;&gt;Detect TMP75&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Temperature&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;and&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;alert function&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;align=center;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="0.629999999999999" y="370" width="198.75" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YghnJZwzXwjtp5xYnZhh-25" value="No reading" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="380" width="70" height="20" as="geometry" />
